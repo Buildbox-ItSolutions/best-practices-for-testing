@@ -15,7 +15,7 @@ Manual de boas práticas para a realização de testes da Buildbox IT Solutions
 * A partir do momento que o bug do card em questão for corrigido, porém existam novas situações que geraram bugs, novos cards precisam ser abertos
 
 ## 2 - Classificação das ocorrências
-* É desejável que o problema seja identificado sobre seu aspecto de existência, isto é, um problema ao seu identificado e roluldo com base em uma classificação, agiliza 
+* É desejável que o problema seja identificado e classificado para criar uma melhor orientação para a equipe técnica.
 * Podemos classificar com os seguintes rótulos:
 	* [Plataforma] Regra de Negócio
 	* [Plataforma] Layout
